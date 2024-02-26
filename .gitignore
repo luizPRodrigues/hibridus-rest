@@ -1,0 +1,12 @@
+/target/
+Evidencias
+.DS_Store
+.classpath
+.project
+target
+.settings
+.metadata
+Evidences
+.txt
+cadastro_evidencias
+test-output
